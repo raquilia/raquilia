@@ -8,7 +8,7 @@ Today I run [Taproot Technology](https://raquilia.github.io/taproot-technology/)
 
 ## Find me
 
-- Personal site: https://raquilia.github.io/personal-site/
+- Personal site: https://rickaquilia.com
 - LinkedIn: https://www.linkedin.com/in/raquilia
 - Taproot Technology: https://raquilia.github.io/taproot-technology/
 - Email: rick.aquilia@gmail.com · Phone: (919) 434-4539
